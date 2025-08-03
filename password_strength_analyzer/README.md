@@ -34,6 +34,7 @@ A Python-based GUI application that evaluates password strength using entropy, c
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/mrjay9/password-strength-analyzer.git
+   git clone https://github.com/mrjay9/password_strength_analyzer.git
    cd password-strength-analyzer
    python app.py
+
